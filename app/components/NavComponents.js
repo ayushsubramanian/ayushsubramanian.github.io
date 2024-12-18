@@ -48,7 +48,7 @@ function Navigation() {
               <NavItem number="5" text="Contact" target="contact-section" />
               <NavDivider />
               <ResumeButton
-                href="https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:6f6cf56a-ee78-4d7c-a901-656ff5de3723"
+                href="https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:0c1ad753-f022-415d-99c0-03704b6daf10"
                 target="_blank"
                 rel="noopener noreferrer"
               >  

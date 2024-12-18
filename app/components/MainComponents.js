@@ -39,8 +39,8 @@ function Main() {
                     <UniversityName>
                     University of North Carolina at Chapel Hill
                     </UniversityName>{" "}
-                    with a double major in Computer Science and Statistics. I am
-                    heavily interested in topics within Artifical Intelligence/Machine Learning, Data Analytics, and Web Development
+                    with a double major in Computer Science and Business Administration. I am
+                    heavily interested in topics within AI/ML, Data/Business Analytics, and Product Management
                     and hope to gain as many technical and soft skills as I can and
                     apply them to projects and my career!
                 </Description>

@@ -33,7 +33,7 @@ function About() {
                 <p>
                 My goal is to create innovative solutions that address real-world
                 problems, enhance user experiences, and contribute to the fields
-                of software engineering, data analytics, and machine learning. As
+                of software engineering, analytics, and machine learning. As
                 a progressive thinker, I enjoy watching projects evolve through
                 their various stages, from initial ideation to final development.
                 I thrive on seeing ideas come to life and my strong organizational

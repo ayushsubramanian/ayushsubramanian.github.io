@@ -43,19 +43,19 @@ function Experience() {
                 logo={images.typicl_logo}
                 title="AI/ML Intern"
                 description={[
-                "Conducted in-depth research and implemented advanced AI technologies such as Stable Diffusion models to optimize image generation and manipulation algorithms within the Typicl.ai app.",
-                "Utilized Python, TensorFlow, and other technologies to develop and deploy machine learning models for image segmentation, style transfer, and image enhancement, leveraging deep learning architectures to achieve scalable solutions.",
+                "Utilized Python, TensorFlow, and other technologies to develop and deploy Stable Diffusion models for image segmentation, style transfer, and image enhancement, leveraging deep learning architectures to achieve scalable solutions.",
+                "Executed comprehensive market analysis to research competitor pricing strategies and consumer trends, leading to the implementation of a data-driven pricing model for the Typicl.ai app, enhancing revenue optimization and market positioning.",
                 "Collaborated closely with a diverse team of 10-12 professionals, including developers, designers, and product managers, to integrate AI-driven features seamlessly into the app’s user interface and experience.",
                 ]}
-                date="May 2024 - July 2024"
+                date="May 2024 - August 2024"
             />
             <ExperienceItem
                 logo={images.ncstate_logo}
                 title="Research Intern"
                 description={[
-                "Worked part-time with Dr. Yong Zhu on wearable electronics and the applications of nanomaterials to software-based projects.",
-                "Synthesized key findings from research papers into an extensive literature review, and collaborated closely with mentor and lab peers.",
-                "Utilized computer software like AutoCAD and IntelliJ to design hydration sensors, integrate hardware with code, and run data collection programs for sensor analysis.",
+                "Implemented computer software like AutoCAD and IntelliJ to design hydration sensors, integrate hardware with code, and run data collection programs for sensor analysis.",
+                "Conducted a comprehensive review of existing research papers on wearable electronics fabrication, synthesized key findings into an extensive literature review, and collaborated closely with mentor and lab peers.",
+                "Analyzed market potential and commercial applications for wearable electronics, translating technical research into actionable insights for business development and strategic decision-making within the lab’s projects.",
                 ]}
                 date="August 2022 - May 2023"
             />
